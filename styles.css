@@ -24,10 +24,11 @@ a {
 
 #nav-bar {
   position: fixed;
-  font-size: 25px; 
+  font-size: 25px;
   height: 90px;
   background-color: darkgoldenrod;
   width: 98%;
+
 }
 
 #video-link {
